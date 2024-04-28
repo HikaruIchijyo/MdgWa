@@ -1,67 +1,96 @@
- **English** | [Português](languages/README_PTBR.md) | [Turkish](languages/README_TR.md) | [Italiano](languages/README_IT.md)
+**English** | [Português](languages/README_PTBR.md) | [Turkish](languages/README_TR.md) | [Italiano](languages/README_IT.md)
+
+<div align="center">
 
 # MdgWa
+MdgWa is an Xposed module that enhances your Whatsapp experience.<br/><br/>
+Please note that this project is currently in development, so bugs and crashes may occur. If you encounter any issues, we encourage you to report them. To do this simply visit our [issues](https://github.com/ItsMadruga/MdgWa/issues) page and create an issue.
+</div>
 
-An Xposed module to customize your WhatsApp.
+## Quick Start
+Requirements:
+- Rooted using `Magisk` or `KernelSU`
+- `LSPosed` installed and fully functional
 
-## Characteristics
 
-### Customization
+1. Install the module APK from either this [Github repo](https://github.com/ItsMadruga/MdgWa/releases) or the [LSPosed repo](https://modules.lsposed.org/module/its.madruga.wpp)
+2. Turn on the module in `LSPosed` and make sure Whatsapp is in scope
+3. Restart Whatsapp by force stopping it.
 
-|                         | Status |
-|-------------------------| ------------- |
-| New WhatsApp theme      | ✅ |
-| New settings style      | ✅ |
-| Filter chats            | ✅ |
-| Buttons stroke          | ✅ |
-| Menu icons              | ✅ |
-| Outlined icons          | ✅ |
-| Show name and bio       | ✅ |
-| AM:PM Time Format       | ✅ |
-| Seconds in time         | ✅ |
-| Change color global     | ✅ |
-| Separe chats and groups | ✅ |
-| Show dot online in Home | ✅ |
 
-### Functions
+## Download 
+Dwnload latest version from [Stable](https://github.com/ItsMadruga/MdgWa/releases) or [Beta](https://github.com/ItsMadruga/MdgWa/actions).
 
-|  | Status |
-| ------------- | ------------ |
-| Anti revoke message | ✅ |
-| Anti revoke status | ✅ |
-| Download status | ✅|
-| Download view once | ✅ |
-| Videos in high resolution | ✅ |
-| Images in high resolution | ✅ |
-| Send blue tick on reply | ✅ |
+## Main Features
+<details closed>
+  <summary>Privacy</summary>
+  
+  - `Hide 'Forwarded' Tag`
+  - `Remove Forward Limit`
+  - `Disable Pinned Chats Limit`
+  - `Freeze Last Seen`
+  - `Hide Status View`
+  - `Hide Blue Ticks`
+  - `Hide View Once and Audio Seen`
+  - `Hide Delivered`
+  - `Hide Typing`
+  - `Hide Recording Audio`
+  - `Disable View Once`
+  - `Send Blue Ticks upon Reply`
+  - `Delete for everyone on all messages`
+  - `Show Edited Message History`
+  - `Remove 'See More' Button`
+  - `Anti Revoke Status`
+  - `Anti Revoke Message`
+</details>
 
-### Privacy
+<details closed>
+  <summary>Home Screen</summary>
+  
+  - `Show Name`
+  - `Show Bio`
+  - `Show DND Button`
+  - `Separate Groups`
+  - `Hide Archived Chats`
+  - `Show Online Dot in Conversation List`
+  - `Remove Channel Recommendations`
+  - `Hide Tabs on Home`
+  - `Enable IGStatus on Home Screen`
+  - `Filter Chats`
+</details>  
 
-|                      | Status |
-|----------------------| ------------- |
-| Hide forwarding tag  | ✅ |
-| Remove forward limit | ✅ |
-| Freeze last seen     | ✅ |
-| Hide status view     | ✅ |
-| Hide message view    | ✅ |
-| Hide receipt         | ✅ |
-| Hide typing          | ✅ |
-| Hide recording       | ✅ |
-| Disable view once    | ✅ |
-| Hide archived chats  | ✅ |
-| Remove Pinned Limit  | ✅ |
+<details closed>
+  <summary>General</summary>
+  
+  - `Time in 12-Hour Format`
+  - `Seconds on Timestamp`
+  - `Buttons Stroke`
+  - `Menu Icons`
+  - `Outlined Icons`
+  - `New Settings Style` 
+ </details>
+
+ <details closed>
+  <summary>Media</summary>
+  
+  - `Download Status`
+  - `Download View Once`
+  - `HD Quality Videos`
+  - `HD Quality Images` 
+ </details>
+
+ <details closed>
+  <summary>Colors</summary>
+  
+  - `New WhatsApp theme`
+  - `Customize your colors`
+ </details>
+
+ 
 
 ## Compatibility
 
-- WhatsApp Stable
-- WhatsApp Beta
-
-## Use
-
-- [Installing LSPosed](https://github.com/LSPosed/LSPosed)
-- Download Module: [Stable](https://github.com/ItsMadruga/MdgWa/releases/latest) or [Beta](https://github.com/ItsMadruga/MdgWa/actions)
-- Install the Module and activate it in LSPosed
-- Restart WhatsApp for the changes to take effect.
+- WhatsApp Stable & Beta
 
 ## Channel
 
