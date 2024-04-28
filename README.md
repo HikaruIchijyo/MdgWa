@@ -1,8 +1,9 @@
 <div align="center">
-  
-**English** | [Português](languages/README_PTBR.md) | [Turkish](languages/README_TR.md) | [Italiano](languages/README_IT.md)
 
 # MdgWa
+
+**English** | [Português](languages/README_PTBR.md) | [Turkish](languages/README_TR.md) | [Italiano](languages/README_IT.md)
+
 MdgWa is an Xposed module that enhances your Whatsapp experience.<br/><br/>
 Please note that this project is currently in development, so bugs and crashes may occur. If you encounter any issues, we encourage you to report them. To do this simply visit our [issues](https://github.com/ItsMadruga/MdgWa/issues) page and create an issue.
 </div>
