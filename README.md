@@ -1,6 +1,6 @@
-**English** | [Português](languages/README_PTBR.md) | [Turkish](languages/README_TR.md) | [Italiano](languages/README_IT.md)
-
 <div align="center">
+  
+**English** | [Português](languages/README_PTBR.md) | [Turkish](languages/README_TR.md) | [Italiano](languages/README_IT.md)
 
 # MdgWa
 MdgWa is an Xposed module that enhances your Whatsapp experience.<br/><br/>
