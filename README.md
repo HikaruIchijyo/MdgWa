@@ -86,8 +86,45 @@ Dwnload latest version from [Stable](https://github.com/ItsMadruga/MdgWa/release
   - `Customize your colors`
  </details>
 
- 
+ ## FAQ
 
+<details>
+  <summary>Can you add this feature?</summary>
+  
+  - Suggest it [Here](https://github.com/ItsMadruga/MdgWa/issues/3).
+</details>
+
+<details>
+  <summary>When will this feature become available?</summary>
+  
+  - No Eta.
+</details>
+
+<details>
+  <summary>Can I get banned with this?</summary>
+  
+  - Obviously, so use at your own Risk
+</details>
+
+<details>
+  <summary>Can I PM the developers?</summary>
+  
+  - No.
+</details>
+
+<details>
+  <summary>This doesn't work!</summary>
+  
+  - Open an issue or report it on Telegram.
+</details>
+
+<details>
+  <summary>My phone isn't rooted, how do I use this?</summary>
+  
+  - You can't.
+</details>
+
+ 
 ## Compatibility
 
 - WhatsApp Stable & Beta
@@ -95,3 +132,4 @@ Dwnload latest version from [Stable](https://github.com/ItsMadruga/MdgWa/release
 ## Channel
 
 - [Telegram](https://t.me/mdgwamodule)
+
